@@ -1,2 +1,2 @@
-public class benclass { "ben"
+public class benclass { "benj"
 }
